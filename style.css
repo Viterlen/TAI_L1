@@ -1,1 +1,5 @@
-body {background-color: #808080}
+body {background-color: #808080;}
+ul li {display: inline;
+       background-color: black;
+       color: white;
+}
